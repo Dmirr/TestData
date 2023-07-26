@@ -1,0 +1,15 @@
+{
+  "name": "testdata",
+  "version": "1.0.0",
+  "description": "TestData",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dmirr",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.17.2",
+    "mysql": "^2.18.1"
+  }
+}
